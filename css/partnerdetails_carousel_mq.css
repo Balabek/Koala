@@ -1,0 +1,136 @@
+.mirror {
+    opacity: 0.7;
+}
+
+div.item > div > a:hover {
+    cursor: pointer;
+}
+
+.over_hide {margin-top: -4%;}
+
+
+
+
+
+
+@media (max-width: 991px){
+    .over_hide {left: -3%;}
+}
+
+@media (max-width: 841px){
+    .coupartner_pic_pd {margin-left: 15%;}
+    .carousel-inner {margin-left: 28%; width: 122%;}
+    a.right.carousel-control {margin-right: -42%;}
+    a.left.carousel-control {margin-left: 7%;}
+}
+@media (max-width: 827px){
+    .coupartner_pic_pd {margin-left: 15%;}
+    .carousel-inner {margin-left: 28%; width: 123%;}
+    a.right.carousel-control {margin-right: -42%;}
+    a.left.carousel-control {margin-left: 7%;}
+}
+@media (max-width: 820px){
+    .coupartner_pic_pd {margin-left: 15%;}
+    .carousel-inner {margin-left: 27%; width: 124%;}
+    a.right.carousel-control {margin-right: -42%;}
+    a.left.carousel-control {margin-left: 7%;}
+}
+@media (max-width: 814px){
+    .coupartner_pic_pd {margin-left: 15%;}
+    .carousel-inner {margin-left: 26%; width: 125%;}
+    a.right.carousel-control {margin-right: -42%;}
+    a.left.carousel-control {margin-left: 7%;}
+}
+@media (max-width: 808px){
+    .coupartner_pic_pd {margin-left: 15%;}
+    .carousel-inner {margin-left: 25%; width: 126%;}
+    a.right.carousel-control {margin-right: -42%;}
+    a.left.carousel-control {margin-left: 7%;}
+}
+@media (max-width: 801px){
+    .coupartner_pic_pd {margin-left: 15%;}
+    .carousel-inner {margin-left: 24%; width: 127%;}
+    a.right.carousel-control {margin-right: -42%;}
+    a.left.carousel-control {margin-left: 7%;}
+}
+@media (max-width: 796px){
+    .coupartner_pic_pd {margin-left: 15%;}
+    .carousel-inner {margin-left: 23%; width: 130%;}
+    a.right.carousel-control {margin-right: -42%;}
+    a.left.carousel-control {margin-left: 7%;}
+}
+@media (max-width: 778px){
+    .coupartner_pic_pd {margin-left: 15%;}
+    .carousel-inner {margin-left: 22%; width: 132%;}
+    a.right.carousel-control {margin-right: -42%;}
+    a.left.carousel-control {margin-left: 2%;}
+    a.right.carousel-control {margin-right: -45%;}
+}
+
+
+
+@media (max-width: 769px) {
+    .over_hide {left: -1%}
+    .partner_gal_holder {width: 19%;}
+    .carousel-inner {width: 350%; margin-left: 33%;}
+    a.right.carousel-control {margin-right: -275%;}
+}
+
+@media (max-width: 767px){
+    .over_hide {left: -3%}
+    .coupartner_pic_pd {margin:0 auto; margin-bottom: 15px;}
+    .partner_gal_holder {width: 100%;}
+    .carousel-inner {width: 85%; margin-left: 27%;}
+    a.right.carousel-control {margin-right: -2%;}
+    a.left.carousel-control {margin-left: 10%;}
+    p.prtnr_info {width: 95%;}
+}
+@media (max-width: 500px){
+    .over_hide {left: -3%}
+    .coupartner_pic_pd {margin:0 auto; margin-bottom: 15px;}
+    .partner_gal_holder {width: 100%;}
+    .carousel-inner {width: 125%; margin-left: 6%;}
+    a.right.carousel-control {margin-right: -17%;}
+    a.left.carousel-control {margin-left: -10%;}
+}
+@media (max-width: 454px){
+    .over_hide {left: -3%}
+    .coupartner_pic_pd {display: none;}
+    .partner_gal_holder {width: 100%;}
+    .carousel-inner {width: 125%; margin-left: 9%;}
+    .fa-chevron-right, .fa-chevron-left {font-size: 24px; color: #ffffff;}
+    a.right.carousel-control, a.left.carousel-control {top: 80%;}
+}
+@media (max-width: 454px){
+    a.right.carousel-control, a.left.carousel-control {top: 82%;}
+}
+@media (max-width: 414px){
+    .carousel-inner {width: 125%; margin-left: 19%;}
+    a.right.carousel-control, a.left.carousel-control {top: 82%;}
+}
+
+
+
+
+
+
+@media (min-width: 1300px) {
+    .over_hide {margin-top: -3.333%;}
+    .coupartner_pic_pd {margin-left: 3.555%}
+}
+
+@media (min-width: 1600px) {
+    .over_hide {margin-top: -2.555%;}
+    .coupartner_pic_pd {margin-left: 10.555%}
+    .carousel-inner {width: 100%; margin-left: 18%;}
+    a.right.carousel-control {margin-right: -5%;}
+    a.left.carousel-control {margin-left: 3%;}
+}
+
+@media (min-width: 2000px) {
+    .over_hide {margin-top: -2.22%;}
+    .coupartner_pic_pd {margin-left: 17.555%}
+    .carousel-inner {width: 80%; margin-left: 28%;}
+    a.right.carousel-control {margin-right: 5%;}
+    a.left.carousel-control {margin-left: 13%;}
+}
